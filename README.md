@@ -25,10 +25,16 @@ Der pädagogische Ansatz ist bewusst niedrigschwellig und freiwillig: Kein Druck
 Dieses Repository enthält Konzepte und Materialien für Kurse und Veranstaltungen im Rahmen von Noops & Nerds. Alle Inhalte stehen unter der GPLv3 und dürfen frei genutzt, geteilt und weiterentwickelt werden – unter den Bedingungen der Lizenz.
 
 ```
-/
-├── README.md          # Diese Datei
-├── LICENSE            # GNU General Public License v3.0
-└── konzepte/          # Projektkonzepte und Kursmaterialien
+├── activities
+│   ├── 02-Holztools # Anleitung zur Erstellung von Holztools
+│   ├── WiP_01-Minecraft_Rezepte_Sammlung # Hier entsteht eine Minecraft Rezeptesammlung
+│   ├── WiP_03-Paddeltour_mit_Schatzsuche
+│   ├── WiP_04-Crafting_Table_Tischdenke
+│   └── WiP_05-Holzhütten_bauen
+├── LICENSE
+├── noops-and-nerds-kurzkonzept.md
+└── README.md
+
 ```
 
 ---
